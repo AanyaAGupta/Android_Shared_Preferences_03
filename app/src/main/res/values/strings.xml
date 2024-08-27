@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P7L03GuptaAanya</string>
+    <string name="exit_button">Exit!</string>
+    <string name="welcome_msg">Welcome to the animal counter!</string>
+    <string name="left_name">Dogs</string>
+    <string name="toprightcap">Cats</string>
+    <string name="botrightcap">Frogs</string>
+    <string name="bottomleftcap">Fish</string>
+</resources>
